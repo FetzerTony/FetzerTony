@@ -1,18 +1,14 @@
 <h1 align="center">Hi 👋, I'm Tony</h1>
-<h3 align="center">Computer Science Student</h3>
+<h3 align="center">Computer Science Student & Open Source Enthusiast</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=fetzertony&style=flat-square&color=blue" alt="fetzertony" />
-</p>
-
----
+<hr/>
 
 ### 💻 About Me
-- 🌱 I’m currently learning Rust.
+- 🌱 Currently learning Rust.
 - 🚀 Passionate about writing clean, efficient code and exploring new technologies.
 
-<h3 align="left">🛠️ Languages and Tools</h3>
-<p align="left">
+### 🛠️ Languages and Tools
+<p>
   <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="rust" />
   </a>
@@ -30,20 +26,21 @@
   </a>
 </p>
 
-<h3 align="left">📊 GitHub Stats</h3>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=fetzertony&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
+### 📊 GitHub Stats
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fetzertony&theme=tokyonight" alt="GitHub Profile Details" />
 </p>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fetzertony&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" alt="Top Langs" />
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fetzertony&theme=tokyonight" alt="GitHub Stats Card" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fetzertony&theme=tokyonight&utcoffset=1" alt="Productive Time" />
 </p>
 
-<h3 align="left">Connect with me</h3>
-<p align="left">
-  <a href="https://instagram.com/zwck.tony" target="blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" height="30" />
+### 📬 Connect with me
+<p>
+  <a href="https://instagram.com/zwck.tony" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://discord.gg/itzzz_tony" target="blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord" height="30" />
+  <a href="https://discord.com/users/itzzz_tony" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-itzzz__tony-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord" />
   </a>
 </p>
